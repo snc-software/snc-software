@@ -10,7 +10,7 @@ I'm Scott and i'm a Senior Software Engineer.
 
 Feel free to take a look around my public repos, and get in touch if you want to collaborate 😌
 
-### Overview 📊
+<!-- ### Overview 📊 -->
 
 <!--
 **snc-software/snc-software** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=snc-software&show_icons=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snc-software&layout=compact" />
-</p>
+## 𝗦𝘁𝗮𝘁𝘀
+
+![github stats](https://github-readme-stats.vercel.app/api?username=snc-software&show_icons=true&count_private=true&theme=dracula)
+
+## Languages
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snc-software&layout=compact&theme=dracula)
+
