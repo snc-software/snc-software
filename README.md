@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![](https://img.shields.io/badge/Scott%20Crowther-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https%3A%2F%2Flinkedin.com%2Fin%2Fscott-crowther-546aa3122)](https://linkedin.com/in/scott-crowther-546aa3122)
+
 
 I'm Scott and i'm a Senior Software Engineer.
 
